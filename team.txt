@@ -1,0 +1,14 @@
+Members:
+Bairon Cayetano 
+Bryan Nunez
+Marcos Cambeiro
+Dija Ramsoedit
+Fredy Navas
+Aland Munoz
+
+Trello Board:
+- Join as member of the work space: https://trello.com/invite/6ae8107551a6234ec84935c7/ATTI66512c180ac612c8ac1713888d7ba2b78E929EC7
+- View and Edit the Board: https://trello.com/invite/b/6ae810caf7099f00f8392565/ATTI106341b757dec61b19499e642b6314698C6445AA/wdd-330-sleep-outside
+
+Deployed Web Application:
+https://sleep-outside-app.onrender.com
