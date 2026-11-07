@@ -1,4 +1,3 @@
-import { setLocalStorage } from "./utils.mjs";
 import ProductData from "./ProductData.mjs";
 import { getLocalStorage, setLocalStorage } from "./utils.mjs";
 
